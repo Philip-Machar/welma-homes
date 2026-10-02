@@ -11,11 +11,11 @@ import Testimonials from './components/Testimonials';
 import FadeInScroll from '@/components/base/FadeInScroll';
 
 export default function Home() {
-  // Define Kevlin & Company as a local real estate business to Google
+  // Define Welma Homes as a local real estate business to Google
   const schema = JSON.stringify({
     "@context": "https://schema.org",
     "@type": "RealEstateAgent",
-    "name": "Kevlin & Company",
+    "name": "Welma Homes",
     "image": "/logo.jpg",
     "description": "Nairobi's premier real estate agency specializing in luxury properties in Karen, Runda, Westlands, and Kilimani.",
     "address": {
@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-background-50">
       <SEO 
-        title="Kevlin & Company | Luxury Real Estate in Nairobi (Karen, Runda, Westlands, Kilimani, Lavington)"
+        title="Welma Homes | Luxury Real Estate in Nairobi (Karen, Runda, Westlands, Kilimani, Lavington)"
         description="Discover premium apartments, villas, and mansions for rent and sale in Nairobi's most prestigious neighbourhoods, including Karen, Runda, Kilimani, and Westlands."
         schema={schema}
       />

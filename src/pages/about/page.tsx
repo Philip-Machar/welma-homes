@@ -73,7 +73,7 @@ export default function AboutPage() {
               
               <div className="space-y-6 text-foreground-500 font-light leading-relaxed text-base md:text-lg">
                 <p>
-                  Kevlin & Company began with a singular vision: to elevate the Kenyan real estate experience by introducing unprecedented levels of transparency, sophistication, and personalized service.
+                  Welma Homes began with a singular vision: to elevate the Kenyan real estate experience by introducing unprecedented levels of transparency, sophistication, and personalized service.
                 </p>
                 <p>
                   What started as a boutique agency operating from a modest office along Riverside Drive has evolved into East Africa's premier real estate consultancy. We realized early on that our clients weren't just looking for structures; they were looking for sanctuaries, investments, and places to build their futures.
@@ -103,7 +103,7 @@ export default function AboutPage() {
               <div className="relative aspect-[4/5] md:aspect-square rounded-[2.5rem] overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.15)] group">
                 <img
                   src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2000&auto=format&fit=crop"
-                  alt="Kevlin & Company Legacy"
+                  alt="Welma Homes Legacy"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-out"
                 />
               </div>
@@ -223,7 +223,7 @@ export default function AboutPage() {
                 Our Motivation
               </span>
               <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-8">
-                The Vision <span className="italic font-light text-primary-400">Behind Kevlin</span>
+                The Vision <span className="italic font-light text-primary-400">Welma Homes</span>
               </h2>
               
               <div className="relative">
@@ -234,7 +234,7 @@ export default function AboutPage() {
               </div>
 
               <p className="text-white/60 leading-relaxed font-light mb-10 text-sm md:text-base">
-                We established Kevlin & Company to transform this experience. By combining deep local expertise with a commitment to integrity, we ensure that every family and investor we serve can navigate the property market with absolute confidence. Our team works tirelessly to demystify real estate, offering honest valuations, clear communication, and unwavering support at every step.
+                We established Welma Homes to transform this experience. By combining deep local expertise with a commitment to integrity, we ensure that every family and investor we serve can navigate the property market with absolute confidence. Our team works tirelessly to demystify real estate, offering honest valuations, clear communication, and unwavering support at every step.
               </p>
               
               <div className="flex items-center gap-4 border-t border-white/10 pt-8">
@@ -242,7 +242,7 @@ export default function AboutPage() {
                   <span className="text-white font-heading font-bold text-xl">PN</span>
                 </div>
                 <div>
-                  <p className="text-white font-bold tracking-wide">Kevlin Mwangi</p>
+                  <p className="text-white font-bold tracking-wide">Welma</p>
                   <p className="text-primary-400 text-xs font-bold uppercase tracking-widest mt-1">Founder & Managing Director</p>
                 </div>
               </div>
@@ -253,7 +253,7 @@ export default function AboutPage() {
                 {/* AI Generated image specifically requesting a Black African businessman */}
                 <img
                   src="https://cdn.guardian.ng/wp-content/uploads/2015/04/1727877696131.jpg"
-                  alt="Kevlin & Company Founder - Peter Njoroge"
+                  alt="Welma Homes Founder - Peter Njoroge"
                   className="w-full h-full object-cover grayscale-[20%] contrast-125 group-hover:scale-105 transition-transform duration-1000"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-80" />

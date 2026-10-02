@@ -113,7 +113,7 @@ export default function ServicesPage() {
               How It Works
             </span>
             <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-foreground-950 mb-6">
-              The Kevlin <span className="italic text-primary-400 font-light">Process</span>
+              The Welma<span className="italic text-primary-400 font-light">Process</span>
             </h2>
             <div className="w-12 h-1 bg-accent-500 rounded-full mx-auto" />
             <p className="text-foreground-500 mt-6 max-w-2xl mx-auto font-light leading-relaxed">
@@ -157,7 +157,7 @@ export default function ServicesPage() {
               <div className="relative aspect-[4/5] w-full rounded-[2.5rem] overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.15)] group">
                 <img
                   src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop"
-                  alt="Kevlin & Company Interior Consultation"
+                  alt="Welma Homes Interior Consultation"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000 ease-out"
                 />
               </div>
@@ -194,11 +194,11 @@ export default function ServicesPage() {
                 Why Choose Us
               </span>
               <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-foreground-950 mb-6 leading-tight">
-                The Kevlin <span className="italic text-primary-400 font-light">Advantage</span>
+                The Welma<span className="italic text-primary-400 font-light">Advantage</span>
               </h2>
               <div className="w-12 h-1 bg-accent-500 mb-8 rounded-full" />
               <p className="text-foreground-500 text-lg mb-12 font-light leading-relaxed">
-                When you partner with Kevlin & Company, you are not just getting a broker—you are gaining a dedicated advisory team committed to your absolute success in the real estate market.
+                When you partner with Welma Homes, you are not just getting a broker—you are gaining a dedicated advisory team committed to your absolute success in the real estate market.
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-10">

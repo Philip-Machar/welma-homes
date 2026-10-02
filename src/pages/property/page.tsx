@@ -165,7 +165,7 @@ export default function PropertyDetailPage() {
   return (
     <div className="min-h-screen bg-background-50">
       <SEO 
-        title={`${property.title || 'Property'} | Kevlin & Company`}
+        title={`${property.title || 'Property'} | Welma Homes`}
         description={(property.description || '').substring(0, 160) + '...'}
         image={images[0] || property.image}
         url={`https://www.kenyaclassichomes.com/properties/${property.id}`}
@@ -205,7 +205,7 @@ export default function PropertyDetailPage() {
                   Copy Link
                 </button>
                 <a
-                  href={`https://wa.me/?text=${encodeURIComponent(`Take a look at this exclusive property from Kevlin & Company: ${property.title} - ${window.location.href}`)}`}
+                  href={`https://wa.me/?text=${encodeURIComponent(`Take a look at this exclusive property from Welma Homes: ${property.title} - ${window.location.href}`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full text-left px-5 py-3 rounded-2xl text-[13px] font-semibold text-foreground-700 hover:bg-foreground-50 dark:hover:bg-white/5 hover:text-foreground-950 transition-colors flex items-center gap-3"
@@ -391,7 +391,7 @@ export default function PropertyDetailPage() {
                 <div>
                   <p className="text-sm font-bold text-foreground-950 tracking-wide mb-1">Verified Listing</p>
                   <p className="text-xs text-foreground-500 leading-relaxed font-light">
-                    This property has been physically verified by Kevlin & Company agents. All legal documentation is secured.
+                    This property has been physically verified by Welma Homes agents. All legal documentation is secured.
                   </p>
                 </div>
               </div>

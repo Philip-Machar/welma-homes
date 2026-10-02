@@ -11,7 +11,7 @@ export default function WhyChooseUs() {
               Why Choose Us
             </span>
             <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-foreground-950 mb-6 leading-tight">
-              The Kevlin <span className="italic text-primary-400 font-light">Advantage</span>
+              The Welma<span className="italic text-primary-400 font-light">Advantage</span>
             </h2>
             <div className="w-12 h-1 bg-accent-500 mb-8 rounded-full" />
             <p className="text-foreground-500 text-lg mb-12 font-light leading-relaxed">
@@ -41,7 +41,7 @@ export default function WhyChooseUs() {
             <div className="relative aspect-[4/5] md:aspect-square rounded-[2.5rem] overflow-hidden shadow-2xl">
               <img
                 src="https://img.magnific.com/premium-photo/group-three-black-men-stylish-suits-meeting-summer-park-african-americans-friends-hispanic-businessman-greeting-pose-teamwork-outdoors_175356-895.jpg"
-                alt="Kevlin & Company Excellence"
+                alt="Welma Homes Excellence"
                 className="w-full h-full object-cover"
               />
             </div>

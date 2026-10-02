@@ -120,7 +120,7 @@ export default function SubmitListingPage() {
               </div>
               <h3 className="text-xl font-bold text-foreground-950 mb-2">Submission Received!</h3>
               <p className="text-sm text-foreground-500 mb-6">
-                Thank you for choosing Kevlin & Company. Our team will review your property and contact you within 24 hours to verify the details before publishing.
+                Thank you for choosing Welma Homes. Our team will review your property and contact you within 24 hours to verify the details before publishing.
               </p>
               <button
                 onClick={() => setStatus('idle')}

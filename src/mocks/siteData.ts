@@ -50,16 +50,16 @@ export interface Office {
 export const teamMembers: TeamMember[] = [
   {
     id: 'tm1',
-    name: 'Kevlin Mwangi',
+    name: 'Welma',
     role: 'Founder & CEO',
-    image: 'https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businessman%20in%20his%2040s%20wearing%20a%20navy%20blue%20suit%20with%20a%20subtle%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-peter-01&orientation=squarish',
-    bio: 'With over 15 years in Kenyan real estate, Kevlin founded Kevlin & Company with a vision to transform property transactions through transparency and client-first service.',
+    image: 'https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businesswoman%20in%20her%2030s%20wearing%20an%20elegant%20emerald%20green%20blazer%20with%20a%20confident%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-faith-01&orientation=squarish',
+    bio: 'With over 15 years in Kenyan real estate, Welmafounded Welma Homes with a vision to transform property transactions through transparency and client-first service.',
   },
   {
     id: 'tm2',
     name: 'Faith Wambui',
     role: 'Head of Sales',
-    image: 'https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businesswoman%20in%20her%2030s%20wearing%20an%20elegant%20emerald%20green%20blazer%20with%20a%20confident%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-faith-01&orientation=squarish',
+    image: 'https://readdy.ai/api/search-image?query=Professional%20portrait%20of%20an%20African%20businessman%20in%20his%2040s%20wearing%20a%20navy%20blue%20suit%20with%20a%20subtle%20smile%2C%20clean%20neutral%20studio%20background%2C%20soft%20professional%20lighting%2C%20corporate%20headshot%20style%2C%20warm%20skin%20tones&width=400&height=400&seq=team-peter-01&orientation=squarish',
     bio: 'Faith leads our sales team with exceptional market knowledge and a proven track record of matching clients with their perfect properties across Nairobi and the coast.',
   },
   {
@@ -164,7 +164,7 @@ export const timelineItems: TimelineItem[] = [
   {
     year: '2009',
     title: 'Founded in Nairobi',
-    description: 'Kevlin & Company was established with a vision to transform the real estate experience in Kenya.',
+    description: 'Welma Homes was established with a vision to transform the real estate experience in Kenya.',
   },
   {
     year: '2013',
@@ -214,7 +214,7 @@ export const coreValues = [
 export const contactInfo = [
   {
     label: 'Phone',
-    value: '+254 794 444 591',
+    value: '+254 757 815 340',
     href: 'tel:702601384',
     icon: 'ri-phone-line',
   },
@@ -256,7 +256,7 @@ export const faqItems: FaqItem[] = [
     answer: 'Our service fees vary depending on the type of service. For property sales, we charge a standard commission. For rentals and management, fees are competitive and clearly outlined in our agreement.',
   },
   {
-    question: 'Can I list my property with Kevlin & Company?',
+    question: 'Can I list my property with Welma Homes?',
     answer: 'Absolutely! We welcome property listings from owners across Kenya. Contact our team to discuss your property details, and we will handle marketing, viewings, and negotiations on your behalf.',
   },
 ];
@@ -265,8 +265,8 @@ export const offices: Office[] = [
   {
     city: 'Nairobi',
     address: 'Riverside Drive',
-    phone: '+254 794 444 591',
-    email: 'info@Kevlinhomes.com',
+    phone: '+254 757 815 340',
+    email: 'info@welmahomes.com',
     isHQ: true,
   },
 ];

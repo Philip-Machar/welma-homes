@@ -38,7 +38,7 @@ export default function HeroSection() {
         
         <div className="animate-fade-up">
           <span className="inline-block mb-4 text-xs md:text-sm font-bold tracking-[0.3em] uppercase text-white/80 border border-white/20 px-4 py-1.5 rounded-full backdrop-blur-sm">
-            Welcome to Kevlin and Company
+            Welcome to Welma Homes
           </span>
         </div>
 

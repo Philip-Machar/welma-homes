@@ -14,7 +14,7 @@ interface SEOProps {
 export default function SEO({ 
   title, 
   description, 
-  name = "Kevlin & Company", 
+  name = "Welma Homes", 
   type = "website", 
   image = "/logo.jpg", 
   url = "https://www.Kevlinhomes.com", 
