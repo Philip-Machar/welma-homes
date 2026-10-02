@@ -135,12 +135,12 @@ export default function Footer() {
               { 
                 icon: 'ri-facebook-fill', 
                 label: 'Facebook', 
-                href: 'https://www.facebook.com/KevinCompanyRealEstate/?ref=PROFILE_EDIT_xav_ig_profile_page_web#' 
+                href: 'https://www.facebook.com/p/Welma-Homes-Kenya-61566359802860/' 
               },
               { 
                 icon: 'ri-instagram-line', 
                 label: 'Instagram', 
-                href: 'https://www.instagram.com/kevlin_company/' 
+                href: 'https://www.instagram.com/welma_homes/' 
               }
             ].map((social) => (
               <a 
